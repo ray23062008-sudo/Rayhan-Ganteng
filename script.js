@@ -50,4 +50,5 @@ bgm.volume = 0.3;
 bgm.play();
 playing = true;
 requestAnimationFrame(gameLoop);
+
 };
